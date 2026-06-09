@@ -1,6 +1,6 @@
 import pytest
 
-# pyrefly: ignore [missing-import]
+
 from blog.factories import PostFactory
 
 @pytest.fixture
